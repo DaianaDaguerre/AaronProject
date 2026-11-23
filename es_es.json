@@ -1,0 +1,8 @@
+{
+  "item.aluminum_construct.raw_aluminum": "Aluminio crudo",
+  "item.aluminum_construct.aluminum_ingot": "Lingote de aluminio",
+  "item.aluminum_construct.aluminum_nugget": "Pepita de aluminio",
+  "block.aluminum_construct.aluminum_ore": "Mineral de aluminio",
+  "block.aluminum_construct.aluminum_block": "Bloque de aluminio",
+  "entity.aluminum_construct.aluminum_golem": "Golem de aluminio"
+}

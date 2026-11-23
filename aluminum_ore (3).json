@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "aluminum_construct:block/aluminum_ore"
+    }
+  }
+}

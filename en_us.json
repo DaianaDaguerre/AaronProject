@@ -1,0 +1,8 @@
+{
+  "item.aluminum_construct.raw_aluminum": "Raw Aluminum",
+  "item.aluminum_construct.aluminum_ingot": "Aluminum Ingot",
+  "item.aluminum_construct.aluminum_nugget": "Aluminum Nugget",
+  "block.aluminum_construct.aluminum_ore": "Aluminum Ore",
+  "block.aluminum_construct.aluminum_block": "Block of Aluminum",
+  "entity.aluminum_construct.aluminum_golem": "Aluminum Golem"
+}

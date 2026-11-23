@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.example.aluminumconstruct.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["CarvedPumpkinBlockMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

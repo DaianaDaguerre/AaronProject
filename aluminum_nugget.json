@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aluminum_construct:item/aluminum_nugget"
+  }
+}

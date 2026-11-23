@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "aluminum_construct:block/aluminum_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "aluminum_construct",
+  "version": "${version}",
+  "name": "Aluminum Construct",
+  "description": "Adds aluminum ore, aluminum materials, and a constructible aluminum golem.",
+  "authors": ["OpenAI"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.aluminumconstruct.AluminumConstruct"],
+    "client": ["com.example.aluminumconstruct.client.AluminumConstructClient"]
+  },
+  "mixins": ["aluminum_construct.mixins.json"],
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.21.1", "java": ">=21", "fabric-api": "*" }
+}
